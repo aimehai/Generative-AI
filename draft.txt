@@ -1,0 +1,2 @@
+1. Chat w messenger
+2. Login using Google
